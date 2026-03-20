@@ -1,10 +1,10 @@
-# bolt.diy
+# joyebdiy
 
 Open-source AI coding workspace for building, running, and deploying full-stack apps from your browser or desktop.
 
-![bolt.diy social preview](./public/social_preview_index.jpg)
+![joyebdiy social preview](./public/social_preview_index.jpg)
 
-bolt.diy is the community-driven open-source version inspired by Bolt.new. It combines chat-driven coding, live WebContainer execution, multi-provider LLM support, git workflows, and one-click deployment integrations.
+joyebdiy is the community-driven open-source version inspired by Joyebdiy. It combines chat-driven coding, live WebContainer execution, multi-provider LLM support, git workflows, and one-click deployment integrations.
 
 ## What This Project Does
 
